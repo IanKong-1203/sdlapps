@@ -71,6 +71,7 @@ Select a meaningful use case for your CRUD operations. We will provide the list,
     1.When code is committed to the main or feature branch
     2.Push GitHub Actions automatically triggers
     3.Automatically pull project code through GitHub Actions.
+    
     CD
     1.Automatically deploy backend and frontend files to AWS EC2 instances through GitHub Actions
     2.Connect to MongoDB Atlas database
