@@ -66,17 +66,22 @@ Select a meaningful use case for your CRUD operations. We will provide the list,
 * **README.md** with:
 
   * Project setup instructions.
+  * This project is "Product Review & Rating System".
+  * Before starting, please make sure that the following development and deployment tools are correctly installed:
+  * GitHub
+  * MongoDB
+  * AWS
+  * Node.js
+  * npm
+  * Nginx
+  * PM2
+  * 
   * CI/CD pipeline details.
   * CI
-    1.When code is committed to the main or feature branch
-    
-    2.Push GitHub Actions automatically triggers
-    
-    3.Automatically pull project code through GitHub Actions.
-    
-    CD
-    1.Automatically deploy backend and frontend files to AWS EC2 instances through GitHub Actions
-    
-    2.Connect to MongoDB Atlas database
-    
-    3.Update to the new version of the application
+  * 1.When code is committed to the main or feature branch
+  * 2.Push GitHub Actions automatically triggers
+  * 3.Automatically pull project code through GitHub Actions.
+  * CD
+  * 1.Automatically deploy backend and frontend files to AWS EC2 instances through GitHub Actions
+  * 2.Connect to MongoDB Atlas database
+  * 3.Update to the new version of the application
